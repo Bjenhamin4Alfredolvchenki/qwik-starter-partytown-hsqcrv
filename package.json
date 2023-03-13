@@ -11,7 +11,7 @@
   "devDependencies": {
     "@builder.io/qwik": "~0.0.15",
     "@rollup/plugin-node-resolve": "^13.0.6",
-    "@rollup/plugin-typescript": "^8.3.0",
+    "@rollup/plugin-typescript": "^8.5.0",
     "concurrently": "^6.4.0",
     "express": "~4.17.1",
     "rimraf": "^3.0.2",
